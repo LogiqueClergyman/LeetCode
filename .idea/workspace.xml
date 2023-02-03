@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4849c033-1484-4d21-9588-59595242f7e5" name="Changes" comment="" />
+    <list default="true" id="4849c033-1484-4d21-9588-59595242f7e5" name="Changes" comment="First">
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q100_Same_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q1232_StraightLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q141_LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q1672_RichestCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q191_NoOf1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q771_Jewels_and_Stones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q_1779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q_2529_MaxPosNeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q131_Palindrome_Partitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q134_GasStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q216_CombinationSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q229_Bulls_and_Cows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q38_Count_and_Say.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q38_CountandSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q39_Combination_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q40_CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q75_SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q77_Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q78_Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q7_ReverseI_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q98_ValidateBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LEGNAOUdLnvTIjS3QnFWVeQeAm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First" />
+    <option name="LAST_COMMIT_MESSAGE" value="First" />
   </component>
 </project>
