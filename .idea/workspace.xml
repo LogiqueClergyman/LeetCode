@@ -1,34 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4849c033-1484-4d21-9588-59595242f7e5" name="Changes" comment="First">
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q100_Same_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q1232_StraightLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q141_LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q1672_RichestCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q191_NoOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q771_Jewels_and_Stones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q_1779.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q_2529_MaxPosNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q131_Palindrome_Partitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q134_GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q216_CombinationSum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q229_Bulls_and_Cows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q38_Count_and_Say.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q38_CountandSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q39_Combination_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q40_CombinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q75_SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q77_Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q78_Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q7_ReverseI_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/Q98_ValidateBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q941_MountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hard/Q51_NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q1014_BestSightseeing_Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q1291_Sequential_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q17_LetterCombo_of_a_phoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q1823_Circular_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q238_Product_of_arrayExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q241_DifferentWays_to_addParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q31_NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q36_Valid_Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q3_LongestSubstring_WithoutRepeatingCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q46_Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q54_SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q55_JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q62_UniquePaths_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q63_UniquePaths_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q647_Palindromic_Substring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,7 +43,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LEGNAOUdLnvTIjS3QnFWVeQeAm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,9 +53,89 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.Q62_UniquePaths_I">
+    <configuration name="Q3_LongestSubstring_WithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q3_LongestSubstring_WithoutRepeatingCharacters" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q54_SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q54_SpiralMatrix" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q62_UniquePaths_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q62_UniquePaths_I" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q63_UniquePaths_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q63_UniquePaths_II" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q647_Palindromic_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q647_Palindromic_Substring" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q62_UniquePaths_I" />
+        <item itemvalue="Application.Q63_UniquePaths_II" />
+        <item itemvalue="Application.Q3_LongestSubstring_WithoutRepeatingCharacters" />
+        <item itemvalue="Application.Q54_SpiralMatrix" />
+        <item itemvalue="Application.Q647_Palindromic_Substring" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,6 +145,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675428788726</updated>
     </task>
+    <task id="LOCAL-00001" summary="First">
+      <created>1675429246264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675429246264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +169,74 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
     <option name="LAST_COMMIT_MESSAGE" value="First" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/Q55_JumpGame.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/Q1291_Sequential_Digits.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/Q941_MountainArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Easy/Q941_MountainArray.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hard/Q51_NQueens.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hard/Q51_NQueens.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/Q31_NextPermutation.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/Q31_NextPermutation.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/Q63_UniquePaths_II.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/Q63_UniquePaths_II.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/Q63_UniquePaths_II.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="10" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
